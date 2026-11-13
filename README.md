@@ -10,7 +10,7 @@ My recent work includes IT support internship experience at Air Liquide and proc
 
 - [IT Infrastructure Portfolio](https://github.com/zimon18/IT-Infrastructure-Portfolio) — lab documentation for BIND DNS, Windows domain services and SMB file sharing, plus a school network design project.
 - [Grubaski product showcase](https://github.com/zimon18/Grubaski) · [Live app](https://baranoja.pl/grubaski) — an early-stage social weight-management web app. I lead the product requirements and UX, test changes, and use AI tools to assist with implementation. The source code is private.
-- [Guardian of the Island (team project)](https://github.com/kacper-lebida/guardian-of-the-island-cpp) — a collaborative C++ game project. My documented contribution covered the item hierarchy and menu system. See the original repository for the team and full source history.
+- [Guardian of the Island (team project fork)](https://github.com/zimon18/guardian-of-the-island-cpp) — a collaborative C++ game project. My documented contribution covered the item hierarchy and menu system. The [original repository](https://github.com/kacper-lebida/guardian-of-the-island-cpp) retains the upstream source and team history.
 
 ## Areas I am building on
 
