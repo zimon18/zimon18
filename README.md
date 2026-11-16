@@ -42,6 +42,4 @@ My WordPress and hosting work for clients is not public. I'm happy to walk throu
 
 **Automation and code:** Python automation · C++17 · CMake · Git
 
-I use AI tools such as Claude Code and ChatGPT in my work, and I say so where they contributed. I'm clear about what I've done in labs and what I've done in production.
-
 [Portfolio](https://baranoja.pl) · [GitHub](https://github.com/zimon18)
